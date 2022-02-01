@@ -4,6 +4,7 @@
 * [Getting Support](getting-support/README.md)
   * [Asking for help](getting-support/asking-for-help.md)
 * [Development Docs](development-docs.md)
+* [Big Bad](BIG_BAD.md)
 
 ## Quick Start
 
