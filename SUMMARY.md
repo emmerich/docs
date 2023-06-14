@@ -4,7 +4,7 @@
 * [Getting Support](getting-support/README.md)
   * [Asking for help](getting-support/asking-for-help.md)
 * [Development Docs](development-docs.md)
-* [Big Bad](BIG_BAD.md)
+* [Big Bad](BIG\_BAD.md)
 
 ## Quick Start
 
@@ -523,3 +523,7 @@
 * [Guidelines for Law Enforcement](legal/guidelines-for-law-enforcement.md)
 * [Server Lookup](legal/server-lookup.md)
 * [DMCA Policy](legal/dmca-policy.md)
+
+***
+
+* [big table](big-table.md)
