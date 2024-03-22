@@ -72,7 +72,7 @@ Icon on the burger menu in mobile-view
 
 ### Alert
 
-The Alert variable will change these elements: Warning icon
+The Alert variable will change these elements: Warning icon.. Yes
 
 ![Warning-image](../.gitbook/assets/warning-image.png)
 
