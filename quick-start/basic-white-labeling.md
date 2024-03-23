@@ -2,6 +2,9 @@
 
 This guide will focus on customizations that non-technical users can make to their Rocket.Chat Server. To achieve this you will be using only the admin settings. heyeyey1
 
+1. hello
+   1. world!
+
 ## Layout
 
 Here is where most of the changes to the UI will happen. Found in the administration menu.
